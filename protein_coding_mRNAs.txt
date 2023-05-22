@@ -1,0 +1,3 @@
+"gene_id ""ENSG00000186092.4""; gene_type ""protein_coding""; gene_status ""KNOWN""; gene_name ""OR4F5"";  level 2; havana_gene ""OTTHUMG00000001094.1"";"
+"gene_id ""ENSG00000279928.1""; gene_type ""protein_coding""; gene_status ""KNOWN""; gene_name ""FO538757.3"";  level 3;"
+"gene_id ""ENSG00000279457.2""; gene_type ""protein_coding""; gene_status ""KNOWN""; gene_name ""FO538757.2"";  level 3; tag ""ncRNA_host"";"
